@@ -2,13 +2,15 @@
 <p align="center">
   <img width="800" height="400" src="https://github.com/Lifewithmuskan/Lifewithmuskan/blob/master/social/muskan.gif">
 </p>
-<h2 align="center">Hello there! My name is Muskan Singh. 👋🤓</h2>
+<h2 align="center"> Hi, I'm Muskan Singh! 👋🦁</h2>
 <p align="center">
-  I'm currently a student pursuing my Bachelor of Technology in Electronics and Communication Engineering with a focus on Computer Science and web development at ADGIPS. I'm passionate about developing innovative solutions to real-world problems, particularly in healthcare and real-world issues. 🚀
+🔧 Electronics & Communication Engineering student with a passion for Computer Science and Web Development. I specialize in building innovative solutions to tackle real-world problems, particularly in healthcare and technology.
+
+🚀 Active Hackathon Participant | 🌐 Developer Community Member | 🧩 Tech Enthusiast
+
+📚 Currently exploring AI, Machine Learning, and Web Technologies. Always excited to connect with like-minded individuals and work on impactful projects!
 </p>
-<p align="center">
-  I have actively participated in hackathons, winning several, including Innovada Ideathon, HashHacks 6.0, and Technorax 9.0. Additionally, I am an active member of various developer communities, such as TFUG Ghaziabad, CNCG New Delhi, and the Azure Developer Club. 🌟
-</p>
+
 <p align="center">
   When I'm not coding, you can find me exploring new technologies, watching Netflix, or listening to music. I also love participating in outdoor sports 🏅 and engaging with memes for a good laugh. 😄
 </p>
@@ -25,7 +27,6 @@
     <img src="https://img.shields.io/badge/Hackathons-%23FF0000.svg?&style=for-the-badge&logo=hackathons&logoColor=white" alt="Hackathons">
   </p>
 </section>
-  <br>  <br>  
 <!-- Knowledge Arsenal Section -->
 <hr>
 <section align="center">
@@ -64,11 +65,9 @@
     </tr>
   </table>
 </section>
-<br> 
 <!-- Contact Me Section -->
 <section align="center">
   <br> 
-    <br>
   <h2>🌐 Connect With Me</h2>
   <p>Feel free to reach out through any of the following platforms:</p>
   <br>
@@ -104,10 +103,9 @@
     <img src="https://img.shields.io/github/followers/Lifewithmuskan?style=social">
   </a>
 </p>
-  <br>
 <!-- Development Metrics Section -->
 <section align="center">
-  <br>
+  
   <h2 align="center">💻 Development Metrics</h2>
   <br>
 
