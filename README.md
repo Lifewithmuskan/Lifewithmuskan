@@ -2,7 +2,7 @@
 <p align="center">
   <img width="800" height="400" src="https://github.com/Lifewithmuskan/Lifewithmuskan/blob/master/social/muskan.gif">
 </p>
-<h2 align="center"> Hi, I'm Muskan Singh! 👋🦁</h2>
+<h2 align="center"> Hi, I'm Muskan Singh! 👋🦁</h2> 
 <p align="center"> 
 🔧 Electronics & Communication Engineering student with a passion for Computer Science and Web Development. I specialize in building innovative solutions to tackle real-world problems, particularly in healthcare and technology.
 
